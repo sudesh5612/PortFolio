@@ -31,4 +31,5 @@ JavaScript: Interactive functionality.<br>
 #contact:<br>
 [Sudesh Kumar]-[sudeshkumarhzb0@gmail.com]<br>
 Project link:[https://sudesh5612.github.io/PortFolio/]<br> 
-github :[https://github.com/sudesh5612]
+github :[https://github.com/sudesh5612]<br>
+linkedin :[https://www.linkedin.com/in/sudesh-kumar-438a93276]
